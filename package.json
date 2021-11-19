@@ -3,13 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/cannon": "^4.0.1",
+    "@react-three/drei": "^7.22.1",
+    "@react-three/fiber": "^7.0.19",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "leva": "^0.9.14",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "three": "^0.134.0",
+    "three-stdlib": "^2.5.9",
+    "web-vitals": "^1.0.1",
+    "wouter": "*"
   },
   "scripts": {
     "start": "react-scripts start",
