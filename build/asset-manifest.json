@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/diorama-pgm-jandeschacht/static/css/main.2a692f45.chunk.css",
-    "main.js": "/diorama-pgm-jandeschacht/static/js/main.2ac6b3dc.chunk.js",
-    "main.js.map": "/diorama-pgm-jandeschacht/static/js/main.2ac6b3dc.chunk.js.map",
+    "main.js": "/diorama-pgm-jandeschacht/static/js/main.b5550e04.chunk.js",
+    "main.js.map": "/diorama-pgm-jandeschacht/static/js/main.b5550e04.chunk.js.map",
     "runtime-main.js": "/diorama-pgm-jandeschacht/static/js/runtime-main.8fb7f5d6.js",
     "runtime-main.js.map": "/diorama-pgm-jandeschacht/static/js/runtime-main.8fb7f5d6.js.map",
     "static/js/2.85b454f0.chunk.js": "/diorama-pgm-jandeschacht/static/js/2.85b454f0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8fb7f5d6.js",
     "static/js/2.85b454f0.chunk.js",
     "static/css/main.2a692f45.chunk.css",
-    "static/js/main.2ac6b3dc.chunk.js"
+    "static/js/main.b5550e04.chunk.js"
   ]
 }
