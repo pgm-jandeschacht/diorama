@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diorama-pgm-jandeschacht/static/css/main.5d6aa747.chunk.css",
+    "main.css": "/diorama-pgm-jandeschacht/static/css/main.2a692f45.chunk.css",
     "main.js": "/diorama-pgm-jandeschacht/static/js/main.13f7fa9b.chunk.js",
     "main.js.map": "/diorama-pgm-jandeschacht/static/js/main.13f7fa9b.chunk.js.map",
     "runtime-main.js": "/diorama-pgm-jandeschacht/static/js/runtime-main.8fb7f5d6.js",
@@ -10,14 +10,14 @@
     "static/js/3.246545f0.chunk.js": "/diorama-pgm-jandeschacht/static/js/3.246545f0.chunk.js",
     "static/js/3.246545f0.chunk.js.map": "/diorama-pgm-jandeschacht/static/js/3.246545f0.chunk.js.map",
     "index.html": "/diorama-pgm-jandeschacht/index.html",
-    "static/css/main.5d6aa747.chunk.css.map": "/diorama-pgm-jandeschacht/static/css/main.5d6aa747.chunk.css.map",
+    "static/css/main.2a692f45.chunk.css.map": "/diorama-pgm-jandeschacht/static/css/main.2a692f45.chunk.css.map",
     "static/js/2.85b454f0.chunk.js.LICENSE.txt": "/diorama-pgm-jandeschacht/static/js/2.85b454f0.chunk.js.LICENSE.txt",
     "static/media/diorama.49ca9194.glb": "/diorama-pgm-jandeschacht/static/media/diorama.49ca9194.glb"
   },
   "entrypoints": [
     "static/js/runtime-main.8fb7f5d6.js",
     "static/js/2.85b454f0.chunk.js",
-    "static/css/main.5d6aa747.chunk.css",
+    "static/css/main.2a692f45.chunk.css",
     "static/js/main.13f7fa9b.chunk.js"
   ]
 }
